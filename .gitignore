@@ -1,0 +1,21 @@
+# Ignore Python environments
+env/
+venv/
+*.pyc
+__pycache__/
+
+# Ignore large datasets (folders)
+bulldozer-price-prediction-project/data/
+heart-disease-project/data/
+sample_project/Dog Vision/
+DOG-VISION-DEEP-LEARNING/data/
+
+# Keep all CSV files
+!*.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db

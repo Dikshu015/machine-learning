@@ -1,0 +1,11 @@
+# Ignore environment and Jupyter checkpoint folders
+env/
+.ipynb_checkpoints/
+
+# Common Python junk
+__pycache__/
+*.pkl
+*.csv
+*.zip
+*.pyc
+.DS_Store
